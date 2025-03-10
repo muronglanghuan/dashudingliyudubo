@@ -65,7 +65,7 @@ python roulette_simulation.py
 ```
 
 ## 📊 典型结果
-![Simulation Result](https://example.com/simulation_plot.png)
+
 *可视化展示特征：*
 - 初期剧烈波动（小数定律）
 - 中期波动幅度递减
